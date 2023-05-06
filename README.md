@@ -1,4 +1,4 @@
-<h1 align="center">Assalamoalaikom, I'm Zahid Hasnan</h1>
+<h1 align="center">Hi, I'm Zahid Hasnan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <br>
 <img align="center" alt="Coding" width="100%"src="https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966">
